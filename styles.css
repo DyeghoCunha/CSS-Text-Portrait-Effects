@@ -11,16 +11,16 @@ section
 {
     height: 100vh;
     overflow: hidden;
-    background: #000;
+    background: #000000;
 }
 
 p
 {
 position: relative;
-font-size: 1.5em;
+font-size: .5em;
 letter-spacing: -0.05em;
 line-height: 0.7em;
-background: url(./TucanoToco.png);
+background: url(./TucanoT.png);
 background-blend-mode: color-dodge;
 background-position-x: center;
 background-attachment: fixed ;
